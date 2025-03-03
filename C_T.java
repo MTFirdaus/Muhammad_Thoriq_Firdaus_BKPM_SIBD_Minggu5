@@ -8,7 +8,7 @@ package Tugas2;
  *
  * @author Thoriq
  */
-public class C extends A{
+public class C_T extends A_T{
     void callThis() {
         System.out.println("Inside Class C's Method");
     }

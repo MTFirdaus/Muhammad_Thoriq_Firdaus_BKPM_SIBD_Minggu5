@@ -8,12 +8,12 @@ package Tugas2;
  *
  * @author Thoriq
  */
-public class DynamicDispatch {
+public class DynamicDispatch_T {
     public static void main(String args[]) {
-        A a = new A();
-        B b = new B();
-        C c = new C();
-        A ref; // Reference of type A
+        A_T a = new A_T();
+        B_T b = new B_T();
+        C_T c = new C_T();
+        A_T ref; // Reference of type A
 
         ref = b; // ref refers to B's object
         ref.callThis(); // Calls B's method

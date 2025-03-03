@@ -8,7 +8,7 @@ package Tugas_Animals;
  *
  * @author Thoriq
  */
-public class Test {
+public class Test_Animal {
 public static void main(String[] args) {
         Animal animal = new Animal();
         animal.makeNoise(); // Output: Talk

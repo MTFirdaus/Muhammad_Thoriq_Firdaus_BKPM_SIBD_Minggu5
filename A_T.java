@@ -8,7 +8,7 @@ package Tugas2;
  *
  * @author Thoriq
  */
-public class A {
+public class A_T {
     void callThis() {
         System.out.println("Inside Class A's Method");
     }

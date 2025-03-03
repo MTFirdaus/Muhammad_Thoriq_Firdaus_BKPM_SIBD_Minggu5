@@ -8,8 +8,8 @@ package Konstruktor;
  *
  * @author Thoriq
  */
-public class Demo {
+public class Demo_K {
     public static void main(String[] Args){
-        B subOb = new B();
+        B_K subOb = new B_K();
     }
 }
